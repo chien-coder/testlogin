@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "kVuAQdFMbpzCjhiyh678IxuFYegVBb/51McxVpICQBs=",
+  "Source": "UserAPI_NetCore6",
+  "BasePath": "_content/UserAPI_NetCore6",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
